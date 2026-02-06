@@ -32,9 +32,9 @@ dependencies = [
 wattcycle-ble = "wattcycle_ble.cli:main"
 
 [project.urls]
-Documentation = "https://github.com/luke/wattcycle-ble#readme"
-Source = "https://github.com/luke/wattcycle-ble"
-Issues = "https://github.com/luke/wattcycle-ble/issues"
+Documentation = "https://github.com/qume/wattcycle_ble#readme"
+Source = "https://github.com/qume/wattcycle_ble"
+Issues = "https://github.com/qume/wattcycle_ble/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/wattcycle_ble"]
