@@ -15,10 +15,10 @@ If you have a different Wattcycle/XDZN device, please open an issue with your re
 ## Installation
 
 ```bash
-pip install wattcycle-ble
+pip install git+https://github.com/luke/wattcycle-ble.git
 ```
 
-Or from source:
+Or clone and install locally:
 
 ```bash
 git clone https://github.com/luke/wattcycle-ble.git
